@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="140" viewBox="0 0 620 140" role="img" aria-label="GDI Catalogue MCP">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(20 14)" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="round">
+    <circle cx="56" cy="56" r="46"/>
+    <ellipse cx="56" cy="56" rx="20" ry="46"/>
+    <path d="M12 40h88M12 72h88"/>
+    <path d="M89 89l20 20" stroke-width="7"/>
+    <circle cx="109" cy="109" r="7" fill="url(#g)" stroke="none"/>
+    <circle cx="56" cy="10" r="5" fill="url(#g)" stroke="none"/>
+    <circle cx="10" cy="56" r="5" fill="url(#g)" stroke="none"/>
+  </g>
+  <g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+    <text x="168" y="78" font-size="58" font-weight="800" letter-spacing="2" fill="url(#g)">GDI</text>
+    <text x="300" y="78" font-size="58" font-weight="300" letter-spacing="2" fill="#E6EDF3">MCP</text>
+    <text x="170" y="110" font-size="17" font-weight="600" letter-spacing="5.2" fill="#8B949E">GEODATENKATALOG · AI AGENTS</text>
+  </g>
+</svg>
