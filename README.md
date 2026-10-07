@@ -1,9 +1,32 @@
 <p align="center">
-  <a href="README.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-2ea44f?style=for-the-badge"></a>
-  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/English-555555?style=for-the-badge"></a>
+  <a href="https://jstaab.de/news/gdi-mcp/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+      <img alt="GDI Catalogue MCP" src="assets/logo-light.svg" width="480">
+    </picture>
+  </a>
 </p>
 
-# GDI Catalogue MCP
+<h3 align="center">Geodaten per Prompt — Deutschlands Geodatenkatalog für KI-Agenten</h3>
+
+<p align="center">
+  <a href="README.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-2563EB?style=for-the-badge"></a>
+  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/English-30363D?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img alt="MCP: stdio" src="https://img.shields.io/badge/MCP-stdio-2563EB?style=for-the-badge&labelColor=555555">
+  <img alt="CSW: 2.0.2" src="https://img.shields.io/badge/CSW-2.0.2-0891B2?style=for-the-badge&labelColor=555555">
+  <img alt="Zugriff: nur lesend" src="https://img.shields.io/badge/Zugriff-nur_lesend-16A34A?style=for-the-badge&labelColor=555555">
+  <img alt="Python: ≥ 3.11" src="https://img.shields.io/badge/Python-%E2%89%A5_3.11-CA8A04?style=for-the-badge&labelColor=555555">
+  <img alt="Lizenz: MIT" src="https://img.shields.io/badge/Lizenz-MIT-6E7781?style=for-the-badge&labelColor=555555">
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a> · <a href="#mcp-client-konfigurieren">Client</a> · <a href="#tools">Tools</a> · <a href="#endpunkt">Endpunkt</a> · <a href="#tests-und-einschränkungen">Tests</a> · <a href="#sicherheit-und-nutzungsbedingungen">Sicherheit</a> · <a href="https://jstaab.de/news/gdi-mcp/">Blog-Artikel ↗</a>
+</p>
+
+---
 
 Kleiner, lesender MCP-Connector für **Geodatenkatalog.de / GDI-DE**. Nutzt ausschließlich **CSW 2.0.2** mit Dublin-Core-Ausgabe und das offizielle Python-MCP-SDK über **stdio**. Kein offizieller GDI-DE-/BKG-Dienst.
 

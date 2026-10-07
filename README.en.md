@@ -1,9 +1,32 @@
 <p align="center">
-  <a href="README.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-555555?style=for-the-badge"></a>
-  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/English-2ea44f?style=for-the-badge"></a>
+  <a href="https://jstaab.de/news/gdi-mcp/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+      <img alt="GDI Catalogue MCP" src="assets/logo-light.svg" width="480">
+    </picture>
+  </a>
 </p>
 
-# GDI Catalogue MCP
+<h3 align="center">Geodata by prompt — Germany's geodata catalogue for AI agents</h3>
+
+<p align="center">
+  <a href="README.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-30363D?style=for-the-badge"></a>
+  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/English-2563EB?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img alt="MCP: stdio" src="https://img.shields.io/badge/MCP-stdio-2563EB?style=for-the-badge&labelColor=555555">
+  <img alt="CSW: 2.0.2" src="https://img.shields.io/badge/CSW-2.0.2-0891B2?style=for-the-badge&labelColor=555555">
+  <img alt="Access: read-only" src="https://img.shields.io/badge/Access-read--only-16A34A?style=for-the-badge&labelColor=555555">
+  <img alt="Python: ≥ 3.11" src="https://img.shields.io/badge/Python-%E2%89%A5_3.11-CA8A04?style=for-the-badge&labelColor=555555">
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-6E7781?style=for-the-badge&labelColor=555555">
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a> · <a href="#configure-the-mcp-client">Client setup</a> · <a href="#tools">Tools</a> · <a href="#endpoint">Endpoint</a> · <a href="#tests-and-limitations">Tests</a> · <a href="#security-and-terms-of-use">Security</a> · <a href="https://jstaab.de/news/gdi-mcp/">Blog post ↗</a>
+</p>
+
+---
 
 Small, read-only MCP connector for **Geodatenkatalog.de / GDI-DE**. Uses only **CSW 2.0.2** with Dublin Core output and the official Python MCP SDK over **stdio**. Not an official GDI-DE/BKG service.
 
