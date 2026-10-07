@@ -1,5 +1,7 @@
 # GDI Catalogue MCP
 
+**🇩🇪 Deutsch** · [🇬🇧 English](README.en.md)
+
 Kleiner, lesender MCP-Connector für **Geodatenkatalog.de / GDI-DE**. Nutzt ausschließlich **CSW 2.0.2** mit Dublin-Core-Ausgabe und das offizielle Python-MCP-SDK über **stdio**. Kein offizieller GDI-DE-/BKG-Dienst.
 
 ## Installation
