@@ -1,6 +1,6 @@
 # GDI Catalogue MCP
 
-<details open>
+<details name="lang" open>
 <summary><b>🇩🇪 Deutsch</b></summary>
 
 Kleiner, lesender MCP-Connector für **Geodatenkatalog.de / GDI-DE**. Nutzt ausschließlich **CSW 2.0.2** mit Dublin-Core-Ausgabe und das offizielle Python-MCP-SDK über **stdio**. Kein offizieller GDI-DE-/BKG-Dienst.
@@ -76,7 +76,7 @@ GDI-DE stellt die Kataloginhalte [über standardisierte Schnittstellen zur freie
 
 </details>
 
-<details>
+<details name="lang">
 <summary><b>🇬🇧 English</b></summary>
 
 Small, read-only MCP connector for **Geodatenkatalog.de / GDI-DE**. Uses only **CSW 2.0.2** with Dublin Core output and the official Python MCP SDK over **stdio**. Not an official GDI-DE/BKG service.
