@@ -15,11 +15,10 @@
 </p>
 
 <p align="center">
-  <img alt="MCP: stdio" src="https://img.shields.io/badge/MCP-stdio-2563EB?style=for-the-badge&labelColor=555555">
-  <img alt="CSW: 2.0.2" src="https://img.shields.io/badge/CSW-2.0.2-0891B2?style=for-the-badge&labelColor=555555">
-  <img alt="Zugriff: nur lesend" src="https://img.shields.io/badge/Zugriff-nur_lesend-16A34A?style=for-the-badge&labelColor=555555">
-  <img alt="Python: ≥ 3.11" src="https://img.shields.io/badge/Python-%E2%89%A5_3.11-CA8A04?style=for-the-badge&labelColor=555555">
-  <img alt="Lizenz: MIT" src="https://img.shields.io/badge/Lizenz-MIT-6E7781?style=for-the-badge&labelColor=555555">
+  <a href="https://de.wikipedia.org/wiki/Model_Context_Protocol"><img alt="MCP: stdio" src="https://img.shields.io/badge/MCP-stdio-2563EB?style=for-the-badge&labelColor=555555"></a>
+  <a href="https://docs.geonetwork-opensource.org/3.12/api/csw/"><img alt="CSW: 2.0.2" src="https://img.shields.io/badge/CSW-2.0.2-0891B2?style=for-the-badge&labelColor=555555"></a>
+  <a href="https://www.gdi-de.org/"><img alt="Zugriff: nur lesend" src="https://img.shields.io/badge/Zugriff-nur_lesend-16A34A?style=for-the-badge&labelColor=555555"></a>
+  <a href="https://opensource.org/license/mit"><img alt="Lizenz: MIT" src="https://img.shields.io/badge/Lizenz-MIT-6E7781?style=for-the-badge&labelColor=555555"></a>
 </p>
 
 <p align="center">
